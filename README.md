@@ -14,6 +14,12 @@ laços de repetição e tratamento de exceções.
 Validação de notas escolares, identificando aprovação
 ou recuperação.
 
+### 03 - Analisador de números 
+Identificação de números pares e impares,
+utilizando laços de repetição,
+condicionais,
+contadores e acumuladores.
+
 ## Conceitos praticados
 
 - Variáveis
