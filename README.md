@@ -20,6 +20,10 @@ utilizando laços de repetição,
 condicionais,
 contadores e acumuladores.
 
+### 04 - Tabuada automática
+Geração de tabuadas utilizando laços de repetição 
+aninhado (for dentro de for) e f-strings
+
 ## Conceitos praticados
 
 - Variáveis
